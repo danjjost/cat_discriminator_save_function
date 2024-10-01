@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cat_discriminator_save_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7175",
+      "launchBrowser": false
+    }
+  }
+}
